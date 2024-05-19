@@ -39,7 +39,7 @@ int main(int argc, char *argv[]) {
 
     // ╧ь╠унд╪Ч
     fclose(file);
-    printf("1"); 
+    printf("22222"); 
     return 0;
 }
 
